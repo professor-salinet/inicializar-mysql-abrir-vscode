@@ -1,1 +1,0 @@
-# inicializar-mysql-abrir-vscode
